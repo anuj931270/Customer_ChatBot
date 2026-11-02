@@ -1,0 +1,65 @@
+{
+  "in_scope": [
+    {
+      "question": "Where is my order right now?",
+      "expected_faq_id": 1,
+      "keyword": "Track Order"
+    },
+    {
+      "question": "I want to cancel what I bought",
+      "expected_faq_id": 2,
+      "keyword": "cancel"
+    },
+    {
+      "question": "how many days will shipping take",
+      "expected_faq_id": 4,
+      "keyword": "4 to 7"
+    },
+    {
+      "question": "is delivery free?",
+      "expected_faq_id": 5,
+      "keyword": "999"
+    },
+    {
+      "question": "can you send a parcel to the USA",
+      "expected_faq_id": 6,
+      "keyword": "India"
+    },
+    {
+      "question": "how to send back an item",
+      "expected_faq_id": 8,
+      "keyword": "Return"
+    },
+    {
+      "question": "when do I get my money back",
+      "expected_faq_id": 9,
+      "keyword": "5 to 7"
+    },
+    {
+      "question": "do you take UPI",
+      "expected_faq_id": 10,
+      "keyword": "UPI"
+    },
+    {
+      "question": "my money was cut but the payment failed",
+      "expected_faq_id": 12,
+      "keyword": "3 to 5"
+    },
+    {
+      "question": "I forgot my password",
+      "expected_faq_id": 13,
+      "keyword": "Forgot Password"
+    },
+    {
+      "question": "what is the phone number of support",
+      "expected_faq_id": 15,
+      "keyword": "1800"
+    }
+  ],
+  "out_of_scope": [
+    "Who won the cricket match yesterday?",
+    "Write a poem about the moon",
+    "What is the capital of France?",
+    "Give me tips to invest in the stock market"
+  ]
+}

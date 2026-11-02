@@ -1,0 +1,16 @@
+category,question,answer
+orders,How can I track my order?,"Log in to your account, go to My Orders, and click Track Order. You will also get a tracking link by email and SMS once the order ships."
+orders,Can I cancel my order?,"You can cancel an order before it ships. Go to My Orders and click Cancel. If the order has already shipped, you can refuse delivery or return it after it arrives."
+orders,Can I change my delivery address after placing an order?,"Yes, but only before the order is shipped. Open My Orders, choose the order, and click Edit Address. After shipping, the address cannot be changed."
+shipping,How long does delivery take?,Standard delivery takes 4 to 7 business days. Express delivery takes 1 to 2 business days in major cities.
+shipping,Do you offer free shipping?,"Yes. Orders above 999 rupees get free standard shipping. For smaller orders, the shipping fee is 49 rupees."
+shipping,Do you deliver outside India?,Not right now. We deliver only within India.
+returns,What is your return policy?,You can return most items within 15 days of delivery. The item must be unused and in its original packaging with all tags.
+returns,How do I return a product?,"Go to My Orders, select the item, click Return, and choose a reason. We will arrange a pickup within 2 to 3 business days."
+returns,When will I get my refund?,Refunds are processed within 5 to 7 business days after we receive the returned item. The money goes back to the original payment method.
+payments,Which payment methods do you accept?,"We accept credit and debit cards, UPI, net banking, popular wallets, and cash on delivery."
+payments,Is cash on delivery available?,"Yes, cash on delivery is available for orders up to 5,000 rupees in most pin codes. A fee of 30 rupees applies."
+payments,My payment failed but money was deducted. What should I do?,"Do not worry. The amount is usually returned automatically to your account within 3 to 5 business days. If it is not, contact support with your transaction ID."
+account,How do I reset my password?,"On the login page click Forgot Password, enter your registered email, and open the reset link we send you. The link works for 30 minutes."
+account,How do I delete my account?,"Go to Settings, then Account, and click Delete Account. Your data will be removed within 30 days. This cannot be undone."
+account,How can I contact customer support?,"You can chat with us in the app 24x7, or call 1800-000-000 between 9 AM and 9 PM. Email: support@shopeasy.example."
